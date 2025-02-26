@@ -27,11 +27,8 @@ The objective is to provide insights that will help ShopEasy improve engagement,
       - Numpy
       - Pymysql
       - matplotlib & seaborn
-
-## Approach:
- 
 ## Datasets and Schema:
- 
+![Schema](https://github.com/Priyadharshini8163/Customer-Behavior-Analysis/blob/main/Datasets/Shopeasy_Schema.png)
 ## Analysis & Insights:
 - Customers are dropping off while they’re checking out the page.
 - It is evident that to have successful conversion while customers clicking or viewing the Home page or Product page where they are mostly spending their time
